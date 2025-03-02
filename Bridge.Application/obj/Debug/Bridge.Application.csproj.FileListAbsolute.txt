@@ -1,0 +1,9 @@
+D:\Bridge\Bridge.Application\obj\Debug\Bridge.Application.csproj.AssemblyReference.cache
+D:\Bridge\Bridge.Application\obj\Debug\Bridge.Application.csproj.CoreCompileInputs.cache
+D:\Bridge\Bridge.Application\bin\Debug\Bridge.Application.dll
+D:\Bridge\Bridge.Application\bin\Debug\Bridge.Application.pdb
+D:\Bridge\Bridge.Application\obj\Debug\Bridge.Application.dll
+D:\Bridge\Bridge.Application\obj\Debug\Bridge.Application.pdb
+D:\Bridge\Bridge.Application\bin\Debug\NLog.dll
+D:\Bridge\Bridge.Application\bin\Debug\NLog.xml
+D:\Bridge\Bridge.Application\obj\Debug\Bridge.A.A4737C66.Up2Date

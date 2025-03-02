@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>App</Name>
+    <Assembly>D:\Bridge\Bridge.Application\bin\Debug\Bridge.Application.dll</Assembly>
+    <ClientId>f11c9a66-2899-42d0-bab1-f7659980bb78</ClientId>
+    <FullClassName>App</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

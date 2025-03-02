@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Bridge.App": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}

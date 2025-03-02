@@ -1,0 +1,6 @@
+D:\Bridge\Bridge.Command\bin\Debug\Bridge.Command.dll
+D:\Bridge\Bridge.Command\bin\Debug\Bridge.Command.pdb
+D:\Bridge\Bridge.Command\obj\Debug\Bridge.Command.csproj.AssemblyReference.cache
+D:\Bridge\Bridge.Command\obj\Debug\Bridge.Command.csproj.CoreCompileInputs.cache
+D:\Bridge\Bridge.Command\obj\Debug\Bridge.Command.dll
+D:\Bridge\Bridge.Command\obj\Debug\Bridge.Command.pdb
